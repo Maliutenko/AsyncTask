@@ -14,7 +14,7 @@ import java.net.URL;
  * Created by Tony on 06.04.2017.
  */
 
-public class RequestAsync {
+public static class RequestAsync {
     private final String LOG_TAG = RequestAsync.class.getSimpleName();
     private RequestAsync.IResultListener listener;
 
